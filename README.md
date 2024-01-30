@@ -6,7 +6,7 @@ Talk to ChatGPT from your terminal.
 First you'll need to install the CLI:
 
 ```
-pip install chatgpt-cli
+pip install chatgpt-command
 ```
 
 
